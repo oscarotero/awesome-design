@@ -1,5 +1,4 @@
-# resources
-A collection of open source resources for web designers
+# A collection of open source resources for web designers
 
 ## SVG Icons
 
