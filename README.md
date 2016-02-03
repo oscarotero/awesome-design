@@ -8,11 +8,15 @@
 * [driftyco/ionicons](https://github.com/driftyco/ionicons)
 * [stephenhutchings/typicons.font](https://github.com/stephenhutchings/typicons.font)
 * [Keyamoon/IcoMoon-Free](https://github.com/Keyamoon/IcoMoon-Free)
+* [iconic/open-iconic](https://github.com/iconic/open-iconic)
+* [frexy/glyph-iconset](https://github.com/frexy/glyph-iconset)
 
 ## Logos
 
 * [gilbarbara/logos](https://github.com/gilbarbara/logos)
 * [alrra/browser-logos](https://github.com/alrra/browser-logos)
+* [danleech/simple-icons](https://github.com/danleech/simple-icons)
+* [larsenwork/web.svg.min](https://github.com/larsenwork/web.svg.min)
 
 ## Fonts
 
