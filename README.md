@@ -26,6 +26,7 @@
 * [adobe-fonts/source-sans-pro](https://github.com/adobe-fonts/source-sans-pro)
 * [mozilla/Fira](https://github.com/mozilla/Fira)
 * [google/roboto](https://github.com/google/roboto)
+* [itfoundry/hind-vadodara](https://github.com/itfoundry/hind-vadodara)
 * [vernnobile/OswaldFont](https://github.com/vernnobile/OswaldFont)
 * [RedHatBrand/overpass](https://github.com/RedHatBrand/overpass)
 * [vernnobile/MuliFont](https://github.com/vernnobile/MuliFont)
