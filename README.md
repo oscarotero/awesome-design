@@ -10,6 +10,7 @@
 * [Keyamoon/IcoMoon-Free](https://github.com/Keyamoon/IcoMoon-Free)
 * [iconic/open-iconic](https://github.com/iconic/open-iconic)
 * [frexy/glyph-iconset](https://github.com/frexy/glyph-iconset)
+* [linear icons](https://linearicons.com/free)
 
 ## Logos
 
