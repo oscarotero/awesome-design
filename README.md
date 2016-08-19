@@ -11,6 +11,7 @@
 * [iconic/open-iconic](https://github.com/iconic/open-iconic)
 * [frexy/glyph-iconset](https://github.com/frexy/glyph-iconset)
 * [linear icons](https://linearicons.com/free)
+* [bytesize-icons](https://github.com/danklammer/bytesize-icons)
 
 ## Logos
 
