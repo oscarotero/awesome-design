@@ -23,11 +23,17 @@
 
 ## Fonts
 
+### UI
+
+* [SanFrancisco (MacOSX)](https://github.com/AppleDesignResources/SanFranciscoFont)
+* [SanFrancisco Display (WatchOS)](https://github.com/supermarin/YosemiteSanFranciscoFont)
+* [Roboto (Android)](https://github.com/google/roboto)
+* [Segoe (Windows)](https://github.com/gericom-hummer/segoe)
+* [Fira (FirefoxOS)](https://github.com/mozilla/Fira)
+* [Ubuntu (Ubuntu)](http://font.ubuntu.com/)
+
 ### Sans serif
-* [supermarin/YosemiteSanFranciscoFont](https://github.com/supermarin/YosemiteSanFranciscoFont)
 * [adobe-fonts/source-sans-pro](https://github.com/adobe-fonts/source-sans-pro)
-* [mozilla/Fira](https://github.com/mozilla/Fira)
-* [google/roboto](https://github.com/google/roboto)
 * [itfoundry/hind-vadodara](https://github.com/itfoundry/hind-vadodara)
 * [vernnobile/OswaldFont](https://github.com/vernnobile/OswaldFont)
 * [RedHatBrand/overpass](https://github.com/RedHatBrand/overpass)
