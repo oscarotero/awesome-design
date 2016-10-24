@@ -4,6 +4,7 @@
 
 * [outpunk/evil-icons](https://github.com/outpunk/evil-icons)
 * [google/material-design-icons](https://github.com/google/material-design-icons/tree/master/device)
+* [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign)
 * [github/octicons](https://github.com/github/octicons)
 * [driftyco/ionicons](https://github.com/driftyco/ionicons)
 * [stephenhutchings/typicons.font](https://github.com/stephenhutchings/typicons.font)
