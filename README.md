@@ -51,6 +51,7 @@
 * [impallari/Amiko-Devanagari](https://github.com/impallari/Amiko-Devanagari)
 * [impallari/Cabin](https://github.com/impallari/Cabin)
 * [impallari/Libre-Franklin](https://github.com/impallari/Libre-Franklin)
+* [18F/18franklin](https://github.com/18F/18franklin)
 
 ### Serif
 * [adobe-fonts/source-serif-pro](https://github.com/adobe-fonts/source-serif-pro)
