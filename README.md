@@ -34,6 +34,8 @@
 * [Ubuntu (Ubuntu)](http://font.ubuntu.com/)
 
 ### Sans serif
+* [Clear Sans](https://01.org/clear-SANS)
+* [Cooper Hewitt](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/)
 * [adobe-fonts/source-sans-pro](https://github.com/adobe-fonts/source-sans-pro)
 * [itfoundry/hind-vadodara](https://github.com/itfoundry/hind-vadodara)
 * [vernnobile/OswaldFont](https://github.com/vernnobile/OswaldFont)
@@ -54,6 +56,7 @@
 * [18F/18franklin](https://github.com/18F/18franklin)
 
 ### Serif
+* [Aleo](https://www.behance.net/gallery/8018673/ALEO-Free-Font-Family)
 * [adobe-fonts/source-serif-pro](https://github.com/adobe-fonts/source-serif-pro)
 * [georgd/EB-Garamond](https://github.com/georgd/EB-Garamond)
 * [klepas/open-baskerville](https://github.com/klepas/open-baskerville)
