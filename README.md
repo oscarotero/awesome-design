@@ -54,6 +54,7 @@
 * [impallari/Cabin](https://github.com/impallari/Cabin)
 * [impallari/Libre-Franklin](https://github.com/impallari/Libre-Franklin)
 * [18F/18franklin](https://github.com/18F/18franklin)
+* [larsenwork/Gidole](https://github.com/larsenwork/Gidole)
 
 ### Serif
 * [Aleo](https://www.behance.net/gallery/8018673/ALEO-Free-Font-Family)
@@ -89,6 +90,7 @@
 * [chrissimpkins/Hack](https://github.com/chrissimpkins/Hack)
 * [madmalik/mononoki](https://github.com/madmalik/mononoki)
 * [raphaelbastide/Whois-mono](https://github.com/raphaelbastide/Whois-mono)
+* [be5invis/Iosevka](https://github.com/be5invis/Iosevka)
 
 ### Combined
 * [googlei18n/noto-fonts](https://github.com/googlei18n/noto-fonts)
