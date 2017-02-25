@@ -109,4 +109,4 @@
 * [awp/christopharii](https://github.com/awp/christopharii)
 * [uplaod/FuturaRenner](https://github.com/uplaod/FuturaRenner)
 * [impallari/The-Lobster-Font](https://github.com/impallari/The-Lobster-Font)
-
+* [sursly/excelsiorama](https://github.com/sursly/excelsiorama)
