@@ -21,6 +21,7 @@
 * [danleech/simple-icons](https://github.com/danleech/simple-icons)
 * [larsenwork/web.svg.min](https://github.com/larsenwork/web.svg.min)
 * [kogg/instant-logos](https://github.com/kogg/instant-logos)
+* [edent/SuperTinySocialIcons](https://github.com/edent/SuperTinySocialIcons)
 
 ## Fonts
 
