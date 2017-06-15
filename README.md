@@ -27,7 +27,7 @@
 
 ### UI
 
-* [SanFrancisco (MacOSX)](https://github.com/AppleDesignResources/SanFranciscoFont)
+* [SanFrancisco (MacOSX)](https://github.com/AppleDesignResources/SanFranciscoFont) ([from apple](https://developer.apple.com/fonts/))
 * [SanFrancisco Display (WatchOS)](https://github.com/supermarin/YosemiteSanFranciscoFont)
 * [Roboto (Android)](https://github.com/google/roboto)
 * [Segoe (Windows)](https://github.com/gericom-hummer/segoe)
