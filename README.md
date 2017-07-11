@@ -79,6 +79,7 @@
 * [impallari/Libre-Bodoni](https://github.com/impallari/Libre-Bodoni)
 * [impallari/Libre-Caslon-Text](https://github.com/impallari/Libre-Caslon-Text)
 * [impallari/Libre-Caslon-Display](https://github.com/impallari/Libre-Caslon-Display)
+* [mozilla/zilla-slab](https://github.com/mozilla/zilla-slab)
 
 ### Monospaced
 * [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro)
