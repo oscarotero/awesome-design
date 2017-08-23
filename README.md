@@ -32,6 +32,7 @@
 * [Segoe (Windows)](https://github.com/gericom-hummer/segoe)
 * [Fira (FirefoxOS)](https://github.com/mozilla/Fira)
 * [Ubuntu (Ubuntu)](http://font.ubuntu.com/)
+* [Interface](https://github.com/rsms/interface)
 
 ### Sans serif
 * [Clear Sans](https://01.org/clear-SANS)
