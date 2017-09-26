@@ -84,17 +84,16 @@
 * [mozilla/zilla-slab](https://github.com/mozilla/zilla-slab)
 
 ### Monospaced
-* [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro)
-* [tonsky/FiraCode](https://github.com/tonsky/FiraCode)
-* [belluzj/fantasque-sans](https://github.com/belluzj/fantasque-sans)
-* [larsenwork/monoid](https://github.com/larsenwork/monoid)
-* [andreberg/Meslo-Font](https://github.com/andreberg/Meslo-Font)
-* [i-tu/Hasklig](https://github.com/i-tu/Hasklig)
-* [be5invis/Iosevka](https://github.com/be5invis/Iosevka)
-* [chrissimpkins/Hack](https://github.com/chrissimpkins/Hack)
-* [madmalik/mononoki](https://github.com/madmalik/mononoki)
-* [raphaelbastide/Whois-mono](https://github.com/raphaelbastide/Whois-mono)
-* [be5invis/Iosevka](https://github.com/be5invis/Iosevka)
+* [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) Monospaced font family for user interface and coding environments
+* [tonsky/FiraCode](https://github.com/tonsky/FiraCode) Monospaced font with programming ligatures
+* [belluzj/fantasque-sans](https://github.com/belluzj/fantasque-sans) A font family with a great monospaced variant for programmers
+* [larsenwork/monoid](https://github.com/larsenwork/monoid) Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt.
+* [andreberg/Meslo-Font](https://github.com/andreberg/Meslo-Font) Customized version of Apple's Menlo font. 
+* [i-tu/Hasklig](https://github.com/i-tu/Hasklig) A code font with monospaced ligatures
+* [be5invis/Iosevka](https://github.com/be5invis/Iosevka) Slender typeface for code, from cod
+* [source-foundry/Hack](https://github.com/source-foundry/Hack) A typeface designed for source code
+* [madmalik/mononoki](https://github.com/madmalik/mononoki) A programming typeface
+* [raphaelbastide/Whois-mono](https://github.com/raphaelbastide/Whois-mono) A simple monospace font
 
 ### Combined
 * [googlei18n/noto-fonts](https://github.com/googlei18n/noto-fonts)
