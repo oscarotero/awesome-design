@@ -2,27 +2,27 @@
 
 ## SVG Icons
 
-* [outpunk/evil-icons](https://github.com/outpunk/evil-icons)
-* [google/material-design-icons](https://github.com/google/material-design-icons/tree/master/device)
-* [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign)
-* [github/octicons](https://github.com/github/octicons)
-* [driftyco/ionicons](https://github.com/driftyco/ionicons)
-* [stephenhutchings/typicons.font](https://github.com/stephenhutchings/typicons.font)
-* [Keyamoon/IcoMoon-Free](https://github.com/Keyamoon/IcoMoon-Free)
-* [iconic/open-iconic](https://github.com/iconic/open-iconic)
-* [frexy/glyph-iconset](https://github.com/frexy/glyph-iconset)
+* [outpunk/evil-icons](https://github.com/outpunk/evil-icons) Simple and clean SVG icon pack http://evil-icons.io
+* [google/material-design-icons](https://github.com/google/material-design-icons/tree/master/device) Material Design icons by Google
+* [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) 2000+ Material Design Icons from the Community
+* [github/octicons](https://github.com/github/octicons) A scalable set of icons handcrafted with <3 by GitHub
+* [driftyco/ionicons](https://github.com/driftyco/ionicons) The premium icon font for Ionic
+* [stephenhutchings/typicons.font](https://github.com/stephenhutchings/typicons.font) 336 pixel perfect, all-purpose vector icons in a web-font kit http://typicons.com
+* [Keyamoon/IcoMoon-Free](https://github.com/Keyamoon/IcoMoon-Free) A package of flat vector icons together with an installable ligature font
+* [iconic/open-iconic](https://github.com/iconic/open-iconic) An open source icon set with 223 marks in SVG, webfont and raster formats
+* [frexy/glyph-iconset](https://github.com/frexy/glyph-iconset) A minimal SVG icon set for modern web
 * [linear icons](https://linearicons.com/free)
-* [bytesize-icons](https://github.com/danklammer/bytesize-icons)
-* [colebemis/feather](https://github.com/colebemis/feather)
+* [bytesize-icons](https://github.com/danklammer/bytesize-icons) Tiny style-controlled SVG iconset (92 icons, 10kb) 
+* [colebemis/feather](https://github.com/colebemis/feather) Simply beautiful open source icons
 
 ## Logos
 
-* [gilbarbara/logos](https://github.com/gilbarbara/logos)
-* [alrra/browser-logos](https://github.com/alrra/browser-logos)
-* [danleech/simple-icons](https://github.com/danleech/simple-icons)
-* [larsenwork/web.svg.min](https://github.com/larsenwork/web.svg.min)
-* [kogg/instant-logos](https://github.com/kogg/instant-logos)
-* [edent/SuperTinySocialIcons](https://github.com/edent/SuperTinySocialIcons)
+* [gilbarbara/logos](https://github.com/gilbarbara/logos) A huge collection of SVG logos http://svgporn.com/
+* [alrra/browser-logos](https://github.com/alrra/browser-logos) High resolution web browser logos
+* [danleech/simple-icons](https://github.com/danleech/simple-icons) SVG icons for popular brands https://simpleicons.org
+* [larsenwork/web.svg.min](https://github.com/larsenwork/web.svg.min) Vector icons, badges, flags etc. über optimised for web use.
+* [kogg/instant-logos](https://github.com/kogg/instant-logos) All the logos of instantlogosearch.com http://instantlogosearch.com/
+* [edent/SuperTinySocialIcons](https://github.com/edent/SuperTinySocialIcons) Under 1KB each! Super Tiny Social Icons are miniscule SVG versions of your favourite logos
 
 ## Fonts
 
