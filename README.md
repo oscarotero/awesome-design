@@ -28,12 +28,12 @@
 
 ### UI
 
-* [SanFrancisco (MacOS|iOS|WatchOS)](https://github.com/AppleDesignResources/SanFranciscoFont) / [Updated version](https://github.com/Grawl/SanFranciscoFont) ([from apple](https://developer.apple.com/fonts/))
-* [Roboto (Android)](https://github.com/google/roboto)
-* [Segoe (Windows)](https://github.com/gericom-hummer/segoe)
-* [Fira (FirefoxOS)](https://github.com/mozilla/Fira)
-* [Ubuntu (Ubuntu)](http://font.ubuntu.com/)
-* [Interface](https://github.com/rsms/interface)
+* [SanFrancisco (MacOS|iOS|WatchOS)](https://github.com/AppleDesignResources/SanFranciscoFont) / [Updated version](https://github.com/Grawl/SanFranciscoFont) ([from apple](https://developer.apple.com/fonts/)) The Apple's UI font used in the Apple Watch, iOS 9, and OS X El Capitan.
+* [Roboto (Android)](https://github.com/google/roboto) Googles's UI font used in Android
+* [Segoe (Windows)](https://github.com/gericom-hummer/segoe) UI font used in windows
+* [Fira (FirefoxOS)](https://github.com/mozilla/Fira) Mozilla's new typeface, used in Firefox OS
+* [Ubuntu](http://font.ubuntu.com/) The Ubuntu font family
+* [Inter](https://github.com/rsms/inter) The Inter UI font family http://rsms.me/inter/
 
 ### Sans serif
 * [Clear Sans](https://01.org/clear-SANS)
