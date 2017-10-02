@@ -14,6 +14,7 @@
 * [linear icons](https://linearicons.com/free)
 * [bytesize-icons](https://github.com/danklammer/bytesize-icons) Tiny style-controlled SVG iconset (92 icons, 10kb) 
 * [colebemis/feather](https://github.com/colebemis/feather) Simply beautiful open source icons
+* [michaelampr/jam](https://github.com/michaelampr/jam) Set of icons designed for web projects, illustrations, print projects, etc
 
 ## Logos
 
