@@ -59,6 +59,7 @@
 * [18F/18franklin](https://github.com/18F/18franklin)
 * [larsenwork/Gidole](https://github.com/larsenwork/Gidole)
 * [Lato](http://www.latofonts.com/lato-free-fonts)
+* [Barlow](https://github.com/jpt/barlow)
 
 ### Serif
 * [Aleo](https://www.behance.net/gallery/8018673/ALEO-Free-Font-Family)
