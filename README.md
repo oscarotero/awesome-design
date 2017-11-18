@@ -60,7 +60,7 @@
 * [larsenwork/Gidole](https://github.com/larsenwork/Gidole)
 * [Lato](http://www.latofonts.com/lato-free-fonts)
 * [Barlow](https://github.com/jpt/barlow)
-* [IBM Type](https://github.com/IBM/type)
+* [IBM Plex](https://github.com/IBM/type)
 
 ### Serif
 * [Aleo](https://www.behance.net/gallery/8018673/ALEO-Free-Font-Family)
