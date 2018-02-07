@@ -63,6 +63,7 @@
 * [Barlow](https://github.com/jpt/barlow)
 * [IBM Plex](https://github.com/IBM/type)
 * [iA Writer Duospace](https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Duospace)
+* [Faune](http://www.cnap.graphismeenfrance.fr/faune/en.html)
 
 ### Serif
 * [Aleo](https://www.behance.net/gallery/8018673/ALEO-Free-Font-Family)
