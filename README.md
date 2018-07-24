@@ -119,3 +119,4 @@
 * [uplaod/FuturaRenner](https://github.com/uplaod/FuturaRenner)
 * [impallari/The-Lobster-Font](https://github.com/impallari/The-Lobster-Font)
 * [sursly/excelsiorama](https://github.com/sursly/excelsiorama)
+* [figs-lab/datalegreya](https://github.com/figs-lab/datalegreya)
