@@ -65,6 +65,7 @@
 * [iA Writer Duospace](https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Duospace)
 * [Faune](http://www.cnap.graphismeenfrance.fr/faune/en.html)
 * [Space Grotesk](https://github.com/floriankarsten/space-grotesk)
+* [Wonder Unit](https://github.com/wonderunit/font-wonder-unit)
 
 ### Serif
 * [Aleo](https://www.behance.net/gallery/8018673/ALEO-Free-Font-Family)
