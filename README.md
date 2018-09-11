@@ -1,5 +1,10 @@
 # A collection of open source resources for web designers
 
+## Design guides
+
+* [Design Principles](https://principles.design/)
+* [Adele - Design Systems](https://adele.uxpin.com/)
+
 ## SVG Icons
 
 * [outpunk/evil-icons](https://github.com/outpunk/evil-icons) Simple and clean SVG icon pack http://evil-icons.io
