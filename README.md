@@ -21,6 +21,7 @@
 * [colebemis/feather](https://github.com/colebemis/feather) Simply beautiful open source icons
 * [michaelampr/jam](https://github.com/michaelampr/jam) Set of icons designed for web projects, illustrations, print projects, etc
 * [xtoolkit/Micon](https://github.com/xtoolkit/Micon) Windows 10 icons
+* [akveo/eva-icons](https://github.com/akveo/eva-icons) A pack of more than 480 beautifully crafted Open Source icons
 
 ## Logos
 
