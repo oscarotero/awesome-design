@@ -42,6 +42,9 @@
 * [Fira (FirefoxOS)](https://github.com/mozilla/Fira) Mozilla's new typeface, used in Firefox OS
 * [Ubuntu](http://font.ubuntu.com/) The Ubuntu font family
 * [Inter](https://github.com/rsms/inter) The Inter UI font family http://rsms.me/inter/
+* [Salesforce Sans](https://github.com/salesforce-ux/design-system/tree/master/assets/fonts)
+* [IBM Plex](https://github.com/IBM/type)
+* [iA Writer Duospace](https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Duospace)
 
 ### Sans serif
 * [Clear Sans](https://01.org/clear-SANS)
@@ -67,8 +70,6 @@
 * [larsenwork/Gidole](https://github.com/larsenwork/Gidole)
 * [Lato](http://www.latofonts.com/lato-free-fonts)
 * [Barlow](https://github.com/jpt/barlow)
-* [IBM Plex](https://github.com/IBM/type)
-* [iA Writer Duospace](https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Duospace)
 * [Faune](http://www.cnap.graphismeenfrance.fr/faune/en.html)
 * [Space Grotesk](https://github.com/floriankarsten/space-grotesk)
 * [Wonder Unit](https://github.com/wonderunit/font-wonder-unit)
