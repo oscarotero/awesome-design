@@ -4,6 +4,7 @@
 
 * [Design Principles](https://principles.design/)
 * [Adele - Design Systems](https://adele.uxpin.com/)
+* [Style Guides](http://styleguides.io/)
 
 ## SVG Icons
 
