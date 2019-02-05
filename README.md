@@ -39,7 +39,7 @@
 
 * [SanFrancisco (MacOS|iOS|WatchOS)](https://github.com/AppleDesignResources/SanFranciscoFont) / [Updated version](https://github.com/Grawl/SanFranciscoFont) ([from apple](https://developer.apple.com/fonts/)) The Apple's UI font used in the Apple Watch, iOS 9, and OS X El Capitan.
 * [Roboto (Android)](https://github.com/google/roboto) Googles's UI font used in Android
-* [Segoe (Windows)](https://github.com/gericom-hummer/segoe) UI font used in windows
+* [Segoe (Windows)](https://github.com/gericom-hummer/segoe) / [More complete version](https://github.com/Shyam9553/Segoe-fonts) UI font used in windows
 * [Fira (FirefoxOS)](https://github.com/mozilla/Fira) Mozilla's new typeface, used in Firefox OS
 * [Ubuntu](http://font.ubuntu.com/) The Ubuntu font family
 * [Inter](https://github.com/rsms/inter) The Inter UI font family http://rsms.me/inter/
