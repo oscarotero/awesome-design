@@ -35,6 +35,8 @@
 
 ## Fonts
 
+> :+1: Available as variable font
+
 ### UI
 
 * [SanFrancisco (MacOS|iOS|WatchOS)](https://github.com/AppleDesignResources/SanFranciscoFont) / [Updated version](https://github.com/Grawl/SanFranciscoFont) ([from apple](https://developer.apple.com/fonts/)) The Apple's UI font used in the Apple Watch, iOS 9, and OS X El Capitan.
@@ -42,7 +44,7 @@
 * [Segoe (Windows)](https://github.com/gericom-hummer/segoe) / [More complete version](https://github.com/Shyam9553/Segoe-fonts) UI font used in windows
 * [Fira (FirefoxOS)](https://github.com/mozilla/Fira) Mozilla's new typeface, used in Firefox OS
 * [Ubuntu](http://font.ubuntu.com/) The Ubuntu font family
-* [Inter](https://github.com/rsms/inter) The Inter UI font family http://rsms.me/inter/
+* [Inter](https://github.com/rsms/inter) The Inter UI font family http://rsms.me/inter/ :+1:
 * [Salesforce Sans](https://github.com/salesforce-ux/design-system/tree/master/assets/fonts)
 * [IBM Plex](https://github.com/IBM/type)
 * [iA Writer Duospace](https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Duospace)
