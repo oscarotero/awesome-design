@@ -6,6 +6,7 @@
 * [Adele - Design Systems](https://adele.uxpin.com/)
 * [Style Guides](http://styleguides.io/)
 * [Laws of UX](https://lawsofux.com/)
+* [Humane by Design](https://humanebydesign.com/)
 
 ## SVG Icons
 
