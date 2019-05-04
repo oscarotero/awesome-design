@@ -137,3 +137,5 @@
 * [sursly/excelsiorama](https://github.com/sursly/excelsiorama)
 * [figs-lab/datalegreya](https://github.com/figs-lab/datalegreya)
 * [Optician Sans](https://github.com/anewtypeofinterference/Optician-Sans) Typeface based on the historical eye charts and optotypes used by opticians world wide
+* [Chomsky](https://github.com/ctrlcctrlv/chomsky) A font in the style of the New York Times masthead
+
