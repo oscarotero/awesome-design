@@ -80,6 +80,7 @@
 * [Faune](http://www.cnap.graphismeenfrance.fr/faune/en.html)
 * [Space Grotesk](https://github.com/floriankarsten/space-grotesk)
 * [Wonder Unit](https://github.com/wonderunit/font-wonder-unit)
+* [Techna Sans](https://github.com/carlenlund/techna-sans)
 
 ### Serif
 * [Aleo](https://www.behance.net/gallery/8018673/ALEO-Free-Font-Family)
