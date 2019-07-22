@@ -105,6 +105,7 @@
 * [impallari/Libre-Caslon-Text](https://github.com/impallari/Libre-Caslon-Text)
 * [impallari/Libre-Caslon-Display](https://github.com/impallari/Libre-Caslon-Display)
 * [mozilla/zilla-slab](https://github.com/mozilla/zilla-slab)
+* [mjlagattuta/Hepta-Slab](https://github.com/mjlagattuta/Hepta-Slab)
 
 ### Monospaced
 * [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) Monospaced font family for user interface and coding environments
