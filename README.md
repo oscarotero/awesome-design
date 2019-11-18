@@ -4,6 +4,7 @@
 
 * [Design Principles](https://principles.design/)
 * [Adele - Design Systems](https://adele.uxpin.com/)
+* [Design Systems Repo](https://designsystemsrepo.com/)
 * [Style Guides](http://styleguides.io/)
 * [Laws of UX](https://lawsofux.com/)
 * [Humane by Design](https://humanebydesign.com/)
