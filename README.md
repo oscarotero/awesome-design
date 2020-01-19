@@ -123,6 +123,7 @@
 * [source-foundry/Hack](https://github.com/source-foundry/Hack) A typeface designed for source code
 * [madmalik/mononoki](https://github.com/madmalik/mononoki) A programming typeface
 * [raphaelbastide/Whois-mono](https://github.com/raphaelbastide/Whois-mono) A simple monospace font
+* [JetBrains Mono](https://www.jetbrains.com/lp/mono/) A free and open source typeface for developers
 
 ### Combined
 * [googlei18n/noto-fonts](https://github.com/googlei18n/noto-fonts)
