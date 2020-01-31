@@ -80,7 +80,7 @@
 * [Lato](http://www.latofonts.com/lato-free-fonts)
 * [Barlow](https://github.com/jpt/barlow)
 * [Faune](http://www.cnap.graphismeenfrance.fr/faune/en.html)
-* [Space Grotesk](https://github.com/floriankarsten/space-grotesk)
+* [Space Grotesk](https://github.com/floriankarsten/space-grotesk) :+1:
 * [Wonder Unit](https://github.com/wonderunit/font-wonder-unit)
 * [Techna Sans](https://github.com/carlenlund/techna-sans)
 * [Manrope](https://manropefont.com/) :+1:
