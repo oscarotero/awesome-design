@@ -38,6 +38,12 @@
 * [kogg/instant-logos](https://github.com/kogg/instant-logos) All the logos of instantlogosearch.com http://instantlogosearch.com/
 * [edent/SuperTinySocialIcons](https://github.com/edent/SuperTinySocialIcons) Under 1KB each! Super Tiny Social Icons are miniscule SVG versions of your favourite logos
 
+## Illustrations
+
+* [Humaaans](https://www.humaaans.com/)
+* [Open Peeps](https://www.openpeeps.com/)
+* [Open Doodles](https://www.opendoodles.com/)
+
 ## Fonts
 
 > :+1: Available as variable font
