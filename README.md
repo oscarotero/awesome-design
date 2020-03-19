@@ -28,6 +28,7 @@
 * [xtoolkit/Micon](https://github.com/xtoolkit/Micon) Windows 10 icons
 * [akveo/eva-icons](https://github.com/akveo/eva-icons) A pack of more than 480 beautifully crafted Open Source icons
 * [ikonate](https://github.com/mikolajdobrucki/ikonate) Fully customisable & accessible vector icons
+* [tabler-icons](https://github.com/tabler/tabler-icons) A set of over 300 free MIT-licensed high-quality SVG icons
 
 ## Logos
 
