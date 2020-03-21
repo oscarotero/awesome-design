@@ -44,6 +44,7 @@
 * [Humaaans](https://www.humaaans.com/)
 * [Open Peeps](https://www.openpeeps.com/)
 * [Open Doodles](https://www.opendoodles.com/)
+* [Payforlayers](http://payforlayers.com/)
 
 ## Fonts
 
