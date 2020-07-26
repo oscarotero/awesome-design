@@ -138,6 +138,7 @@
 * [googlei18n/noto-fonts](https://github.com/googlei18n/noto-fonts)
 * [khaledhosny/libertinus](https://github.com/khaledhosny/libertinus)
 * [Inria](https://github.com/BlackFoundryCom/InriaFonts)
+* [Recursive Sans & Mono](https://www.recursive.design/) :+1:
 
 ### Others
 * [antijingoist/open-dyslexic](https://github.com/antijingoist/open-dyslexic)
