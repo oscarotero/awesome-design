@@ -29,6 +29,7 @@
 * [akveo/eva-icons](https://github.com/akveo/eva-icons) A pack of more than 480 beautifully crafted Open Source icons
 * [ikonate](https://github.com/mikolajdobrucki/ikonate) Fully customisable & accessible vector icons
 * [tabler-icons](https://github.com/tabler/tabler-icons) A set of over 300 free MIT-licensed high-quality SVG icons
+* [IconSear.ch](https://iconsear.ch/search.html) - SVG icon search engine with all of the above repos indexed (over 50,000 SVG icons!)
 
 ## Logos
 
@@ -38,6 +39,8 @@
 * [larsenwork/web.svg.min](https://github.com/larsenwork/web.svg.min) Vector icons, badges, flags etc. über optimised for web use.
 * [kogg/instant-logos](https://github.com/kogg/instant-logos) All the logos of instantlogosearch.com http://instantlogosearch.com/
 * [edent/SuperTinySocialIcons](https://github.com/edent/SuperTinySocialIcons) Under 1KB each! Super Tiny Social Icons are miniscule SVG versions of your favourite logos
+* [LogoSear.ch](https://logosear.ch/search.html) - search engine with over 200,000 SVG logos indexed
+* [VectorLogoZone](https://www.vectorlogo.zone/) - consistently formatted SVG logos
 
 ## Illustrations
 
