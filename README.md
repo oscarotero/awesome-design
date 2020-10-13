@@ -29,6 +29,7 @@
 * [akveo/eva-icons](https://github.com/akveo/eva-icons) A pack of more than 480 beautifully crafted Open Source icons
 * [ikonate](https://github.com/mikolajdobrucki/ikonate) Fully customisable & accessible vector icons
 * [tabler-icons](https://github.com/tabler/tabler-icons) A set of over 300 free MIT-licensed high-quality SVG icons
+* [phosphor](https://github.com/phosphor-icons) Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really.
 
 ## Logos
 
