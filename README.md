@@ -123,6 +123,7 @@
 * [mjlagattuta/Hepta-Slab](https://github.com/mjlagattuta/Hepta-Slab)
 * [productiontype/NewsReader](https://github.com/productiontype/NewsReader) :+1:
 * [productiontype/Spectral](https://github.com/productiontype/Spectral)
+* [RingoSeeber/Petrona](https://github.com/RingoSeeber/Petrona) :+1:
 
 ### Monospaced
 * [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) Monospaced font family for user interface and coding environments
