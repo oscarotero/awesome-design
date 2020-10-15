@@ -30,6 +30,7 @@
 * [ikonate](https://github.com/mikolajdobrucki/ikonate) Fully customisable & accessible vector icons
 * [tabler-icons](https://github.com/tabler/tabler-icons) A set of over 300 free MIT-licensed high-quality SVG icons
 * [IconSear.ch](https://iconsear.ch/search.html) - SVG icon search engine with all of the above repos indexed (over 50,000 SVG icons!)
+* [phosphor](https://github.com/phosphor-icons) Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really.
 
 ## Logos
 
@@ -125,6 +126,7 @@
 * [mjlagattuta/Hepta-Slab](https://github.com/mjlagattuta/Hepta-Slab)
 * [productiontype/NewsReader](https://github.com/productiontype/NewsReader) :+1:
 * [productiontype/Spectral](https://github.com/productiontype/Spectral)
+* [RingoSeeber/Petrona](https://github.com/RingoSeeber/Petrona) :+1:
 
 ### Monospaced
 * [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) Monospaced font family for user interface and coding environments
