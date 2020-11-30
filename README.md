@@ -142,6 +142,15 @@
 * [madmalik/mononoki](https://github.com/madmalik/mononoki) A programming typeface
 * [raphaelbastide/Whois-mono](https://github.com/raphaelbastide/Whois-mono) A simple monospace font
 * [JetBrains Mono](https://www.jetbrains.com/lp/mono/) A free and open source typeface for developers
+* [Cascadia Code](https://github.com/microsoft/cascadia-code) Monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
+* [Lilex](https://github.com/mishamyrt/Lilex) Open source programming font
+* [Victor Mono](https://github.com/rubjo/victor-mono) A free programming font with cursive italics and ligatures.
+* [Consolas ligaturized](https://github.com/somq/consolas-ligaturized/) Standard Consolas font with FiraCode ligatures.
+* [Hasklig](https://github.com/i-tu/Hasklig) Hasklig - a code font with monospaced ligatures
+* [Fantasque Sans](https://github.com/belluzj/fantasque-sans) A font family with a great monospaced variant for programmers.
+* [Input](https://input.fontbureau.com/) Input is a flexible system of fonts designed specifically for code
+* [JuliaMono](https://github.com/cormullion/juliamono) A monospaced font with reasonable Unicode support.
+
 
 ### Combined
 * [googlei18n/noto-fonts](https://github.com/googlei18n/noto-fonts)
