@@ -9,6 +9,7 @@
 * [Laws of UX](https://lawsofux.com/)
 * [Humane by Design](https://humanebydesign.com/)
 * [Digital Psychology](https://digitalpsychology.io/)
+* [Design Manifestos](https://designmanifestos.org/)
 
 ## SVG Icons
 
