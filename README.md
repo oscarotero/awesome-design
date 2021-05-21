@@ -67,6 +67,7 @@
 * [IBM Plex](https://github.com/IBM/type)
 * [iA Writer Duospace](https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Duospace)
 * [Public Sans](https://github.com/uswds/public-sans)
+* [PT Root UI](https://www.paratype.com/fonts/pt/pt-root-ui)
 
 ### Sans serif
 * [Clear Sans](https://01.org/clear-SANS)
