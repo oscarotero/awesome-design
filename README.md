@@ -153,6 +153,7 @@
 * [Fantasque Sans](https://github.com/belluzj/fantasque-sans) A font family with a great monospaced variant for programmers.
 * [Input](https://input.fontbureau.com/) Input is a flexible system of fonts designed specifically for code
 * [JuliaMono](https://github.com/cormullion/juliamono) A monospaced font with reasonable Unicode support.
+* [displaay/Azeret](https://github.com/displaay/Azeret) Azeret is a sans-serif typeface with a mono-linear character.
 
 
 ### Combined
