@@ -102,6 +102,7 @@
 * [Lexend](https://www.lexend.com/) :+1:
 * [Violet Sans](https://github.com/violetoffice/violet_sans)
 * [Secuela](https://github.com/defharo/secuela-variable) :+1:
+* [Atkinson Hyperlegible](Atkinson Hyperlegible) A typeface with greater legibility and readability for low vision readers
 
 ### Serif
 * [Aleo](https://www.behance.net/gallery/8018673/ALEO-Free-Font-Family)
