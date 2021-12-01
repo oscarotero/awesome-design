@@ -117,7 +117,7 @@
 * [theleagueof/prociono](https://github.com/theleagueof/prociono)
 * [theleagueof/goudy-bookletter-1911](https://github.com/theleagueof/goudy-bookletter-1911)
 * [skosch/Crimson](https://github.com/skosch/Crimson)
-  * [Fonthausen/CrimsonPro](https://github.com/Fonthausen/CrimsonPro) - A professionally produced redesign
+  * [Fonthausen/CrimsonPro](https://github.com/Fonthausen/CrimsonPro) :+1: - A professionally produced redesign
 * [edwardtufte/et-book](https://github.com/edwardtufte/et-book)
 * [antonxheight/Arvo](https://github.com/antonxheight/Arvo)
 * [clauseggers/Inknut-Antiqua](https://github.com/clauseggers/Inknut-Antiqua)
