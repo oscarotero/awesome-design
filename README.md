@@ -55,6 +55,10 @@
 
 > :+1: Available as variable font
 
+### Open Source Type foundries
+
+* [Etcetera](https://www.etceteratype.co/)
+
 ### UI
 
 * [SanFrancisco (MacOS|iOS|WatchOS)](https://github.com/AppleDesignResources/SanFranciscoFont) / [Updated version](https://github.com/Grawl/SanFranciscoFont) ([from apple](https://developer.apple.com/fonts/)) The Apple's UI font used in the Apple Watch, iOS 9, and OS X El Capitan.
