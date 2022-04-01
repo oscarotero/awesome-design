@@ -10,6 +10,7 @@
 * [Humane by Design](https://humanebydesign.com/)
 * [Digital Psychology](https://digitalpsychology.io/)
 * [Design Manifestos](https://designmanifestos.org/)
+* [Código Deontologico READ (PDF)](https://www.designread.es/wp-content/uploads/2022/03/2022_CodigoDeontologico_READ.pdf)
 
 ## SVG Icons
 
