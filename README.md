@@ -76,6 +76,7 @@
 * [Golos UI](https://www.paratype.com/fonts/pt/golos-ui) :+1:
 
 ### Sans serif
+* [Onest](https://onest.md/en)
 * [Clear Sans](https://01.org/clear-SANS)
 * [Cooper Hewitt](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/)
 * [adobe-fonts/source-sans-pro](https://github.com/adobe-fonts/source-sans-pro)
