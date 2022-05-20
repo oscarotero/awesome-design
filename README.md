@@ -162,6 +162,7 @@
 * [Input](https://input.fontbureau.com/) Input is a flexible system of fonts designed specifically for code
 * [JuliaMono](https://github.com/cormullion/juliamono) A monospaced font with reasonable Unicode support.
 * [displaay/Azeret](https://github.com/displaay/Azeret) Azeret is a sans-serif typeface with a mono-linear character.
+* [sursly/sono](https://github.com/sursly/sono) A soft monospace variable font :+1:
 
 
 ### Combined
