@@ -13,6 +13,10 @@
 * [Código Deontologico READ (PDF)](https://www.designread.es/wp-content/uploads/2022/03/2022_CodigoDeontologico_READ.pdf)
 * [Design Principles (by Jeremy Keith)](https://principles.adactio.com/)
 
+## UI galleries/guides
+
+* [Component gallery](https://component.gallery/) Repository of interface components based on examples from the world of design systems.
+
 ## SVG Icons
 
 * [outpunk/evil-icons](https://github.com/outpunk/evil-icons) Simple and clean SVG icon pack http://evil-icons.io
