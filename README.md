@@ -12,6 +12,7 @@
 * [Design Manifestos](https://designmanifestos.org/)
 * [Código Deontologico READ (PDF)](https://www.designread.es/wp-content/uploads/2022/03/2022_CodigoDeontologico_READ.pdf)
 * [Design Principles (by Jeremy Keith)](https://principles.adactio.com/)
+* [Design Patterns (by Maggie Appleton)](https://maggieappleton.com/patterns)
 
 ## UI galleries/guides
 
