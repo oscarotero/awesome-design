@@ -1,6 +1,6 @@
 # A collection of open source resources for web designers
 
-## Design guides
+## Design guides (and studies)
 
 * [Design Principles](https://principles.design/)
 * [Adele - Design Systems](https://adele.uxpin.com/)
@@ -13,6 +13,7 @@
 * [Código Deontologico READ (PDF)](https://www.designread.es/wp-content/uploads/2022/03/2022_CodigoDeontologico_READ.pdf)
 * [Design Principles (by Jeremy Keith)](https://principles.adactio.com/)
 * [Design Patterns (by Maggie Appleton)](https://maggieappleton.com/patterns)
+* [Research Bookmark](https://www.researchbookmark.io/)
 
 ## UI galleries/guides
 
