@@ -177,7 +177,8 @@
 * [JuliaMono](https://github.com/cormullion/juliamono) A monospaced font with reasonable Unicode support.
 * [displaay/Azeret](https://github.com/displaay/Azeret) Azeret is a sans-serif typeface with a mono-linear character.
 * [sursly/sono](https://github.com/sursly/sono) A soft monospace variable font :+1:
-* [fragment-mono](https://github.com/weiweihuanghuang/fragment-mono) Helvetica Monospace Coding Font 
+* [fragment-mono](https://github.com/weiweihuanghuang/fragment-mono) Helvetica Monospace Coding Font
+* [Martian mono](https://github.com/evilmartians/mono) Free and open-source monospaced font from Evil Martians :+1:
 
 
 ### Combined
