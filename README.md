@@ -123,6 +123,7 @@
 * [Unbounded](https://github.com/w3f/unbounded) Open source, freely available and on-chain funded font.
 * [Figtree](https://github.com/erikdkennedy/figtree) A friendly, simple geometric sans serif font :+1:
 * [Mona Sans & Hubot Sans](https://github.com/mona-sans) A variable font from GitHub :+1:
+* [Schibsted Grotesk](https://github.com/schibsted/schibsted-grotesk) :+1:
 
 ### Serif
 * [Aleo](https://www.behance.net/gallery/8018673/ALEO-Free-Font-Family)
