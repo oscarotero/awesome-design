@@ -207,3 +207,4 @@
 * [Chomsky](https://github.com/ctrlcctrlv/chomsky) A font in the style of the New York Times masthead
 * [Shake](https://writewithparkinsons.com/) The typeface with Parkingson's
 * [Sprat](https://github.com/EthanNakache/Sprat-type) A display typeface
+* [Shantell Sans](https://github.com/arrowtype/shantell-sans) A marker-style font built for creative expression, typographic play, and animation. :+1:
