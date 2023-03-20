@@ -124,6 +124,7 @@
 * [Figtree](https://github.com/erikdkennedy/figtree) A friendly, simple geometric sans serif font :+1:
 * [Mona Sans & Hubot Sans](https://github.com/mona-sans) A variable font from GitHub :+1:
 * [Schibsted Grotesk](https://github.com/schibsted/schibsted-grotesk) :+1:
+* [Hanken Grotesk](https://hanken.co/products/hanken-grotesk) Sans serif typeface inspired by the classic grotesques.
 
 ### Serif
 * [Aleo](https://www.behance.net/gallery/8018673/ALEO-Free-Font-Family)
@@ -155,7 +156,8 @@
 * [RingoSeeber/Petrona](https://github.com/RingoSeeber/Petrona) :+1:
 * [undercasetype/Frances](https://github.com/undercasetype/Fraunces) :+1:
 * [Literata](https://www.type-together.com/literata-font) :+1:
-* [Yrsa & Rasa](http://github.rosettatype.com/yrsa-rasa/) :+1: Fonts Fonts for Latin and Gujarati 
+* [Yrsa & Rasa](http://github.rosettatype.com/yrsa-rasa/) :+1: Fonts Fonts for Latin and Gujarati
+* [Reforma](https://pampatype.com/reforma) Versatile font family designed for long-form reading.
 
 ### Monospaced
 * [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) Monospaced font family for user interface and coding environments
@@ -169,7 +171,8 @@
 * [madmalik/mononoki](https://github.com/madmalik/mononoki) A programming typeface
 * [raphaelbastide/Whois-mono](https://github.com/raphaelbastide/Whois-mono) A simple monospace font
 * [JetBrains Mono](https://www.jetbrains.com/lp/mono/) A free and open source typeface for developers
-* [Cascadia Code](https://github.com/microsoft/cascadia-code) Monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
+* [Cascadia Code](https://github.com/microsoft/cascadia-code) Monospaced font that includes programming ligatures and is designed to en
+ce the modern look and feel of the Windows Terminal.
 * [Lilex](https://github.com/mishamyrt/Lilex) Open source programming font
 * [Victor Mono](https://github.com/rubjo/victor-mono) A free programming font with cursive italics and ligatures.
 * [Consolas ligaturized](https://github.com/somq/consolas-ligaturized/) Standard Consolas font with FiraCode ligatures.
