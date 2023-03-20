@@ -155,6 +155,7 @@
 * [RingoSeeber/Petrona](https://github.com/RingoSeeber/Petrona) :+1:
 * [undercasetype/Frances](https://github.com/undercasetype/Fraunces) :+1:
 * [Literata](https://www.type-together.com/literata-font) :+1:
+* [Yrsa & Rasa](http://github.rosettatype.com/yrsa-rasa/) :+1: Fonts Fonts for Latin and Gujarati 
 
 ### Monospaced
 * [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) Monospaced font family for user interface and coding environments
