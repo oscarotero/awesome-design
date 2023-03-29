@@ -55,6 +55,7 @@
 * [edent/SuperTinySocialIcons](https://github.com/edent/SuperTinySocialIcons) Under 1KB each! Super Tiny Social Icons are miniscule SVG versions of your favourite logos
 * [LogoSear.ch](https://logosear.ch/search.html) - search engine with over 200,000 SVG logos indexed
 * [VectorLogoZone](https://www.vectorlogo.zone/) - consistently formatted SVG logos
+* [Devicon](https://devicon.dev/) - Set of icons representing programming languages, designing & development tools
 
 ## Illustrations
 
