@@ -121,7 +121,7 @@
 * [Violet Sans](https://github.com/violetoffice/violet_sans)
 * [Secuela](https://github.com/defharo/secuela-variable) :+1:
 * [Atkinson Hyperlegible](https://brailleinstitute.org/freefont) A typeface with greater legibility and readability for low vision readers
-* [Unbounded](https://github.com/w3f/unbounded) Open source, freely available and on-chain funded font.
+* [Unbounded](https://github.com/w3f/unbounded) Open source, freely available and on-chain funded font. :+1:
 * [Figtree](https://github.com/erikdkennedy/figtree) A friendly, simple geometric sans serif font :+1:
 * [Mona Sans & Hubot Sans](https://github.com/mona-sans) A variable font from GitHub :+1:
 * [Schibsted Grotesk](https://github.com/schibsted/schibsted-grotesk) :+1:
