@@ -14,6 +14,7 @@
 * [Design Principles (by Jeremy Keith)](https://principles.adactio.com/)
 * [Design Patterns (by Maggie Appleton)](https://maggieappleton.com/patterns)
 * [Research Bookmark](https://www.researchbookmark.io/)
+* [Neurodiversity Design System](https://www.neurodiversity.design/)
 
 ## Learn
 
