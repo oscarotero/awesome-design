@@ -215,3 +215,4 @@ ce the modern look and feel of the Windows Terminal.
 * [Shake](https://writewithparkinsons.com/) The typeface with Parkingson's
 * [Sprat](https://github.com/EthanNakache/Sprat-type) A display typeface
 * [Shantell Sans](https://github.com/arrowtype/shantell-sans) A marker-style font built for creative expression, typographic play, and animation. :+1:
+* [Urkiola](https://enekopalencia.itch.io/urkiola) Recovery of a basque font
