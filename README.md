@@ -196,6 +196,7 @@ ce the modern look and feel of the Windows Terminal.
 * [khaledhosny/libertinus](https://github.com/khaledhosny/libertinus)
 * [Inria](https://github.com/BlackFoundryCom/InriaFonts)
 * [Recursive Sans & Mono](https://www.recursive.design/) :+1:
+* [Instrument Sans](https://github.com/Instrument/instrument-sans) :+1: & [Instrument Serif](https://github.com/Instrument/instrument-serif).
 
 ### Others
 * [antijingoist/open-dyslexic](https://github.com/antijingoist/open-dyslexic)
