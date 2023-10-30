@@ -197,6 +197,7 @@ ce the modern look and feel of the Windows Terminal.
 * [Inria](https://github.com/BlackFoundryCom/InriaFonts)
 * [Recursive Sans & Mono](https://www.recursive.design/) :+1:
 * [Instrument Sans](https://github.com/Instrument/instrument-sans) :+1: & [Instrument Serif](https://github.com/Instrument/instrument-serif).
+* [Geist Sans & Mono](https://vercel.com/font/sans) :+1: A typeface specifically designed for developers and designers
 
 ### Others
 * [antijingoist/open-dyslexic](https://github.com/antijingoist/open-dyslexic)
