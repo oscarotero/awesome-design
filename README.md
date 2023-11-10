@@ -189,6 +189,7 @@ ce the modern look and feel of the Windows Terminal.
 * [Martian mono](https://github.com/evilmartians/mono) Free and open-source monospaced font from Evil Martians :+1:
 * [Intel One Mono](https://github.com/intel/intel-one-mono) Expressive monospaced font family that’s built with clarity, legibility, and the needs of developers in mind.
 * [Commit Mono](https://commitmono.com/) Neutral programming typeface.
+* [Monaspace](https://monaspace.githubnext.com/) :+1: An innovative superfamily of fonts for code
 
 
 ### Combined
