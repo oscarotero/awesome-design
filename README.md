@@ -199,6 +199,7 @@ ce the modern look and feel of the Windows Terminal.
 * [Recursive Sans & Mono](https://www.recursive.design/) :+1:
 * [Instrument Sans](https://github.com/Instrument/instrument-sans) :+1: & [Instrument Serif](https://github.com/Instrument/instrument-serif).
 * [Geist Sans & Mono](https://vercel.com/font/sans) :+1: A typeface specifically designed for developers and designers
+* [Reddit Sans](https://github.com/reddit/redditsans) "The typeface of the internet" with Sans, Sans Condensed and Mono versions.
 
 ### Others
 * [antijingoist/open-dyslexic](https://github.com/antijingoist/open-dyslexic)
