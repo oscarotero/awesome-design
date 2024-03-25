@@ -15,6 +15,7 @@
 * [Design Patterns (by Maggie Appleton)](https://maggieappleton.com/patterns)
 * [Research Bookmark](https://www.researchbookmark.io/)
 * [Neurodiversity Design System](https://www.neurodiversity.design/)
+* [Ethical Design resources](https://www.ethicaldesignresources.com/)
 
 ## Learn
 
