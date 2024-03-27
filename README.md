@@ -28,15 +28,8 @@
 
 ## SVG Icons
 
-* [outpunk/evil-icons](https://github.com/outpunk/evil-icons) Simple and clean SVG icon pack http://evil-icons.io
-* [google/material-design-icons](https://github.com/google/material-design-icons/tree/master/device) Material Design icons by Google
 * [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) 2000+ Material Design Icons from the Community
-* [github/octicons](https://github.com/github/octicons) A scalable set of icons handcrafted with <3 by GitHub
-* [driftyco/ionicons](https://github.com/driftyco/ionicons) The premium icon font for Ionic
-* [stephenhutchings/typicons.font](https://github.com/stephenhutchings/typicons.font) 336 pixel perfect, all-purpose vector icons in a web-font kit http://typicons.com
-* [Keyamoon/IcoMoon-Free](https://github.com/Keyamoon/IcoMoon-Free) A package of flat vector icons together with an installable ligature font
-* [iconic/open-iconic](https://github.com/iconic/open-iconic) An open source icon set with 223 marks in SVG, webfont and raster formats
-* [frexy/glyph-iconset](https://github.com/frexy/glyph-iconset) A minimal SVG icon set for modern web
+* [ionicons](http://ionicons.com/) The premium icon font for Ionic
 * [linear icons](https://linearicons.com/free)
 * [bytesize-icons](https://github.com/danklammer/bytesize-icons) Tiny style-controlled SVG iconset (92 icons, 10kb) 
 * [colebemis/feather](https://github.com/colebemis/feather) Simply beautiful open source icons
@@ -47,6 +40,7 @@
 * [tabler-icons](https://github.com/tabler/tabler-icons) A set of over 300 free MIT-licensed high-quality SVG icons
 * [IconSear.ch](https://iconsear.ch/search.html) - SVG icon search engine with all of the above repos indexed (over 50,000 SVG icons!)
 * [phosphor](https://github.com/phosphor-icons) Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really.
+* [Feather](https://feathericons.com/)  Simply beautiful open-source icons 
 
 ## Logos
 
