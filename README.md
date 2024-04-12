@@ -68,6 +68,7 @@
 ### Open Source Type foundries
 
 * [Etcetera](https://www.etceteratype.co/)
+* [Fontshare](https://www.fontshare.com/)
 
 ### UI
 
