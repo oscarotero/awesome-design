@@ -40,7 +40,8 @@
 * [tabler-icons](https://github.com/tabler/tabler-icons) A set of over 300 free MIT-licensed high-quality SVG icons
 * [IconSear.ch](https://iconsear.ch/search.html) - SVG icon search engine with all of the above repos indexed (over 50,000 SVG icons!)
 * [phosphor](https://github.com/phosphor-icons) Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really.
-* [Feather](https://feathericons.com/)  Simply beautiful open-source icons 
+* [Feather](https://feathericons.com/)  Simply beautiful open-source icons
+* [Icônes](https://icones.js.org/) Icon explorer of almost all popular icon collections
 
 ## Logos
 
