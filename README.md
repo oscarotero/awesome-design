@@ -16,6 +16,7 @@
 * [Research Bookmark](https://www.researchbookmark.io/)
 * [Neurodiversity Design System](https://www.neurodiversity.design/)
 * [Ethical Design resources](https://www.ethicaldesignresources.com/)
+* [Deceptive Patterns (aka Dark Patterns)](https://www.deceptive.design/)
 
 ## Learn
 
