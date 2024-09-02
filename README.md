@@ -222,3 +222,5 @@ ce the modern look and feel of the Windows Terminal.
 * [Sprat](https://github.com/EthanNakache/Sprat-type) A display typeface
 * [Shantell Sans](https://github.com/arrowtype/shantell-sans) A marker-style font built for creative expression, typographic play, and animation. :+1:
 * [Urkiola](https://enekopalencia.itch.io/urkiola) Recovery of a basque font
+* [Departure Mono](https://departuremono.com/) A monospaced pixel font with a lo-fi technical vibe
+
