@@ -82,7 +82,7 @@
 * [Inter](https://github.com/rsms/inter) The Inter UI font family http://rsms.me/inter/ :+1:
 * [Salesforce Sans](https://github.com/salesforce-ux/design-system/tree/master/assets/fonts)
 * [IBM Plex](https://github.com/IBM/type)
-* [iA Writer Duospace](https://github.com/iaolo/iA-Fonts/tree/master/iA%20Writer%20Duospace)
+* [iA Writer Duospace](https://github.com/iaolo/iA-Fonts)
 * [Public Sans](https://github.com/uswds/public-sans)
 * [PT Root UI](https://www.paratype.com/fonts/pt/pt-root-ui) :+1:
 * [Golos UI](https://www.paratype.com/fonts/pt/golos-ui) :+1:
