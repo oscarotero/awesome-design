@@ -190,7 +190,7 @@ ce the modern look and feel of the Windows Terminal.
 * [Intel One Mono](https://github.com/intel/intel-one-mono) Expressive monospaced font family that’s built with clarity, legibility, and the needs of developers in mind.
 * [Commit Mono](https://commitmono.com/) Neutral programming typeface.
 * [Monaspace](https://monaspace.githubnext.com/) :+1: An innovative superfamily of fonts for code
-
+* [0xProto](https://github.com/0xType/0xProto) A programming font focused on source code legibility
 
 ### Combined
 * [googlei18n/noto-fonts](https://github.com/googlei18n/noto-fonts)
