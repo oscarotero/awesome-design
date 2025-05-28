@@ -191,6 +191,7 @@ ce the modern look and feel of the Windows Terminal.
 * [Commit Mono](https://commitmono.com/) Neutral programming typeface.
 * [Monaspace](https://monaspace.githubnext.com/) :+1: An innovative superfamily of fonts for code
 * [0xProto](https://github.com/0xType/0xProto) A programming font focused on source code legibility
+* [Kelmscott mono](https://github.com/seeddisperser/kelmscott-mono) A black letter for the text editor
 
 ### Combined
 * [googlei18n/noto-fonts](https://github.com/googlei18n/noto-fonts)
