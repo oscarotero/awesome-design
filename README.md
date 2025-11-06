@@ -192,6 +192,7 @@ ce the modern look and feel of the Windows Terminal.
 * [Monaspace](https://monaspace.githubnext.com/) :+1: An innovative superfamily of fonts for code
 * [0xProto](https://github.com/0xType/0xProto) A programming font focused on source code legibility
 * [Kelmscott mono](https://github.com/seeddisperser/kelmscott-mono) A black letter for the text editor
+* [Myna](https://github.com/sayyadirfanali/Myna) A monospace typeface designed for symbol-rich programming
 
 ### Combined
 * [googlei18n/noto-fonts](https://github.com/googlei18n/noto-fonts)
