@@ -63,14 +63,23 @@
 * [Open Doodles](https://www.opendoodles.com/)
 * [Payforlayers](http://payforlayers.com/)
 
+## Photos
+
+* [WordPress Photos](https://wordpress.org/photos/)
+* [Openverse](https://openverse.org/)
+* [Pexels](https://www.pexels.com/)
+* [Unsplash](https://unsplash.com/)
+
 ## Fonts
 
 > :+1: Available as variable font
 
-### Open Source Type foundries
+### Open Source Type foundries or curators
 
 * [Etcetera](https://www.etceteratype.co/)
 * [Fontshare](https://www.fontshare.com/)
+* [Collletttivo](https://www.collletttivo.it/)
+* [Open Foundry](https://open-foundry.com/)
 
 ### UI
 
