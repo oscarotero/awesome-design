@@ -236,4 +236,4 @@ ce the modern look and feel of the Windows Terminal.
 * [Urkiola](https://enekopalencia.itch.io/urkiola) Recovery of a basque font
 * [Departure Mono](https://departuremono.com/) A monospaced pixel font with a lo-fi technical vibe
 * [Alpha Lyrae](https://github.com/vegaprotocol/alpha-lyrae) The Vega font - uses Ligatures & Contextual Alternates to add a little glitch to your world 
-
+* [Datatype](https://franktisellano.github.io/datatype/) A variable font that turns text into charts. :+1:
