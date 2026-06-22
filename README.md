@@ -22,6 +22,7 @@
 
 * [An interactive guide to color & contrast](https://colorandcontrast.com/)
 * [Resilient Web Design (by Jeremy Keith)](https://resilientwebdesign.com/)
+* [Product Design Psychology](https://productdesignpsychology.com/)
 
 ## UI galleries/guides
 
