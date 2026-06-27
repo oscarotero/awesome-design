@@ -72,6 +72,10 @@
 * [Pexels](https://www.pexels.com/)
 * [Unsplash](https://unsplash.com/)
 
+## Software
+
+* [Photopea](https://www.photopea.com/) Online Photo editor, similar to Photoshop.
+
 ## Fonts
 
 > :+1: Available as variable font
