@@ -68,6 +68,7 @@
 ## Photos
 
 * [WordPress Photos](https://wordpress.org/photos/)
+* [igly.ai](https://igly.ai/) AI image editor for background removal, inpainting, upscaling, and generative fill
 * [Openverse](https://openverse.org/)
 * [Pexels](https://www.pexels.com/)
 * [Unsplash](https://unsplash.com/)
