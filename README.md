@@ -75,6 +75,7 @@
 ## Software
 
 * [Photopea](https://www.photopea.com/) Online Photo editor, similar to Photoshop.
+* [Krita](https://krita.org/) Professional free and opensource painting program.
 
 ## Fonts
 
