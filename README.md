@@ -185,7 +185,6 @@
 * [larsenwork/monoid](https://github.com/larsenwork/monoid) Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt.
 * [andreberg/Meslo-Font](https://github.com/andreberg/Meslo-Font) Customized version of Apple's Menlo font. 
 * [i-tu/Hasklig](https://github.com/i-tu/Hasklig) A code font with monospaced ligatures
-* [be5invis/Iosevka](https://github.com/be5invis/Iosevka) Slender typeface for code, from cod
 * [source-foundry/Hack](https://github.com/source-foundry/Hack) A typeface designed for source code
 * [madmalik/mononoki](https://github.com/madmalik/mononoki) A programming typeface
 * [raphaelbastide/Whois-mono](https://github.com/raphaelbastide/Whois-mono) A simple monospace font
@@ -219,6 +218,7 @@ ce the modern look and feel of the Windows Terminal.
 * [Instrument Sans](https://github.com/Instrument/instrument-sans) :+1: & [Instrument Serif](https://github.com/Instrument/instrument-serif).
 * [Geist Sans & Mono](https://vercel.com/font/sans) :+1: A typeface specifically designed for developers and designers
 * [Reddit Sans](https://github.com/reddit/redditsans) "The typeface of the internet" with Sans, Sans Condensed and Mono versions.
+* [be5invis/Iosevka](https://github.com/be5invis/Iosevka) Versatile typeface for code, from code.
 
 ### Others
 * [antijingoist/open-dyslexic](https://github.com/antijingoist/open-dyslexic)
