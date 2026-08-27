@@ -144,6 +144,7 @@
 * [Hanken Grotesk](https://hanken.co/products/hanken-grotesk) Sans serif typeface inspired by the classic grotesques.
 * [SN Pro](https://github.com/supernotes/sn-pro) Sans serif typeface optimized for use with Markdown. It is based on Nunito.
 * [Inclusive Sans](https://github.com/LivKing/Inclusive-Sans) A text font designed for accessibility and readability. [More info](https://www.oliviaking.com/inclusive-sans)
+* [Nebula Sans](https://www.nebulasans.com/) A versatile, modern, humanist sans-serif with a neutral aesthetic, designed for legibility in both digital and print applications.
 
 ### Serif
 * [Aleo](https://www.behance.net/gallery/8018673/ALEO-Free-Font-Family)
