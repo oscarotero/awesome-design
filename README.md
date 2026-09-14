@@ -45,6 +45,7 @@
 * [phosphor](https://github.com/phosphor-icons) Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really.
 * [Feather](https://feathericons.com/)  Simply beautiful open-source icons
 * [Icônes](https://icones.js.org/) Icon explorer of almost all popular icon collections
+* [SVGicons](https://svgicons.com/) Search and browse free open-source SVG icons for web and application development
 
 ## Logos
 
