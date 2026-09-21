@@ -76,6 +76,7 @@
 
 * [Photopea](https://www.photopea.com/) Online Photo editor, similar to Photoshop.
 * [Krita](https://krita.org/) Professional free and opensource painting program.
+* [ShrinkKit](https://github.com/p32929/shrinkkit) Bulk image compressor, resizer and format converter that runs entirely in the browser, with a built-in EXIF/GPS viewer. Nothing is uploaded.
 
 ## Fonts
 
