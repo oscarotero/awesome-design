@@ -210,6 +210,7 @@ ce the modern look and feel of the Windows Terminal.
 * [Kelmscott mono](https://github.com/seeddisperser/kelmscott-mono) A black letter for the text editor
 * [Myna](https://github.com/sayyadirfanali/Myna) A monospace typeface designed for symbol-rich programming
 * [Mapple Mono](https://font.subf.dev/) A open source monospace font
+* [Paper Mono](https://paper.design/mono)
 
 ### Combined
 * [googlei18n/noto-fonts](https://github.com/googlei18n/noto-fonts)
